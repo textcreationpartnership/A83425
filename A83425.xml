@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution and votes of the Parliament of England coneerning [sic] Major Generall Brown; for bringing him to a speedy tryall; and the particulars of the charge to be exhibited against him, touching the late insurrection and rebellion within the counties of Kent and Essex. : With the names of those alderman of the city of London, who are disabled from bearing any publique office or imployment in the commonwealth of England. : And a letter from the Major General to divers citizens touching the Parliament and army;  a message to the lord major, and a proclamation to be proclaimed at the Royal Exchange; with severall proposals to the people of England.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83425</idno>
+            <idno type="STC">Wing E2233</idno>
+            <idno type="STC">ESTC R205645</idno>
+            <idno type="EEBO-CITATION">45097724</idno>
+            <idno type="OCLC">ocm 45097724</idno>
+            <idno type="VID">171319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution and votes of the Parliament of England coneerning [sic] Major Generall Brown; for bringing him to a speedy tryall; and the particulars of the charge to be exhibited against him, touching the late insurrection and rebellion within the counties of Kent and Essex. : With the names of those alderman of the city of London, who are disabled from bearing any publique office or imployment in the commonwealth of England. : And a letter from the Major General to divers citizens touching the Parliament and army;  a message to the lord major, and a proclamation to be proclaimed at the Royal Exchange; with severall proposals to the people of England.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill 10. London printed for R.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>2649 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, Richard, --  Sir, 1602?-1669.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171319:1"/>
+            <p>THE Resolution and Votes Of the Parliament of ENGLAND Concerning Major Generall BROWN; <hi>FOR</hi> The bringing of Him to a ſpeedy <hi>Tryall;</hi> and the particu<g ref="char:EOLhyphen"/>lars of the Charge to be exhibited againſt him, touching the late Inſurrection and Rebellion within the Counties of <hi>KENT</hi> and <hi>ESSEX.</hi> WITH The names of thoſe Alderman of the City of <hi>London,</hi> who are diſabled from bearing any publique Office or Imployment in the Common-wealth of ENGLAND. AND A Letter from the Major General to divers Citizens touch<g ref="char:EOLhyphen"/>ing the Parliament and Army; a Meſſage to the Lord Major, and a Proclamation to be proclaimed at the Royal Exchange; with ſeverall Propoſals to the people of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Aprill</hi> 10. <hi>London</hi> Printed for <hi>R. W.</hi> 2649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="resolution">
+            <pb facs="tcp:171319:2"/>
+            <pb n="1" facs="tcp:171319:2"/>
+            <head>The Reſolution and VOTES Of the Parliament of ENGLAND Concerning Major Generall <hi>Brown,</hi> for the bringing of him to a ſpeedy Tryall; and the particulars of the Charge exhibited againſt him.</head>
+            <p>THe Commons of <hi>England</hi> aſſembled in parla<g ref="char:EOLhyphen"/>ment taking into their ſerious conſideration, the great prejudice and danger that might be<g ref="char:EOLhyphen"/>fall this City and Nation, if the four Aldermen for<g ref="char:EOLhyphen"/>merly committed to the Tower, <hi>viz.</hi> Alderman <hi>Bunch</hi> Alderman <hi>Langham,</hi> and — and the late Lord Ma<g ref="char:EOLhyphen"/>jor
+<pb n="2" facs="tcp:171319:3"/> ſhould be continued any Office, or publique em<g ref="char:EOLhyphen"/>ployment after mature deliberation in reference ther<g ref="char:EOLhyphen"/>unto, Ordered, that the ſaid four Aldermen, and the late Lord Major <hi>Reynaldſon</hi> ſhould be diſabled Aldermen of the City of <hi>London,</hi> or bear any Office or Employ<g ref="char:EOLhyphen"/>ment in this Common-wealth, and that the Common-councell do proceed to the election of new Aldermen in their ſteads.</p>
+            <p>And upon information given, that there was matter of proof ſufficient for convicting Major Gen. <hi>Browne,</hi> now priſoner to the parl. the Houſe ſpent ſome time in debate thereof, and at the laſt came to this Reſult:</p>
+            <p>
+               <hi>Reſolved by the Commons of</hi> England <hi>aſſembled in par<g ref="char:EOLhyphen"/>liament,</hi> That the ſaid Major Gen. <hi>Brown</hi> ſhal be forth<g ref="char:EOLhyphen"/>with brought to his Tryall.</p>
+            <p>
+               <hi>Reſolved. &amp;c.</hi> That a Charge be drawn up againſt him, for the convicting him of ſuch crimes and miſde<g ref="char:EOLhyphen"/>meanours, as ſhall be exhibited and made good upon matter of proof; it appearing that there is ſufficient teſtimony and witneſſe, <hi>viz.</hi> 1. That he hath beene a great Inſtrument in abetting and promoting the laſt Rebellion in <hi>Kent, Eſsex,</hi> and ſeverall other parts of this Nation. 2 That there had been ſeverall levyes of mo<g ref="char:EOLhyphen"/>ney, and that he had received the ſum of 10000, <hi>li.</hi> for the better faciliating and carrying on of that trayterus work and deſign, againſt the Parl. and people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c. For theſe, and many other crimes and miſde<g ref="char:EOLhyphen"/>meanours, he is adjudged (in the name of the Comons of <hi>England</hi>) to be brought to a fair and legal tryal, but the time and place not yet prefixed.</p>
+            <p>The honorable Court of parl. have alſo taken into their ſerious conſideration, the manifold burdens and oppreſſures of the people of this Nation, and have de<g ref="char:EOLhyphen"/>bated
+<pb n="3" facs="tcp:171319:3"/> a way for the prevention thereof for the future, and have ordered a Declaration to be brought in, con<g ref="char:EOLhyphen"/>ſiſting of ſeverall particulars touching Religion, the compoſing of all differences, the redreſſing of grievan<g ref="char:EOLhyphen"/>ces, the eaſing of the people from all burdens and hea<g ref="char:EOLhyphen"/>vy oppreſſures, and the ſetling of this diſtracted church and common-wealth, as it ſhall ſtand enacted and con<g ref="char:EOLhyphen"/>firmed for the future; and to the end that the people of this Nation may receive a little glimpſe of their future freedom, I ſhall here inſert the chief heads of the groundwork of their Declaration, <hi>viz.</hi> 1 That the Miniſtery of the Goſpel ſhal not have their Tythes ta<g ref="char:EOLhyphen"/>ken away, until another way be provided for them as a ſufficient maintenance. 2 That the Government to bee eſtabliſhed in <hi>England,</hi> ſhal be the <hi>presbyterian govern<g ref="char:EOLhyphen"/>ment,</hi> and to be erected in ſuch a manner, that the pu<g ref="char:EOLhyphen"/>rity and ſplendor of the Goſpel may ſhine forth tho<g ref="char:EOLhyphen"/>row out all corners of this Nation. 4 That a way ſhall be provided for admiſſion of all ſuch churches as tend to godlineſſe, and the advancement of the ſacred Word of Jeſus Chriſt and to be without diſturbance. 4 That all ſuch Miniſters, or other perſons whatſoever, who ſhal endeavour to promote ſinne, and diſhonour the truth, ſhall bee ſuppreſt, and proceeded againſt accor<g ref="char:EOLhyphen"/>ding to the penalty of their Crime or Fact. Theſe, and other particulars, are now in debate, which will ſud<g ref="char:EOLhyphen"/>denly be of maturity for the publike view. The com<g ref="char:EOLhyphen"/>mons have alſo ordered that the committee of the Ar<g ref="char:EOLhyphen"/>my be required to bring in an Act, with certain Rules how to take off the Monſter of Nature <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ree quarter,</hi> &amp; all other charges from the people, and therefore reſol<g ref="char:EOLhyphen"/>ved, that a committee ſhould be nominated to adviſe with his Excellency, and the Officers of the Army, in relation thereunto.</p>
+            <pb n="4" facs="tcp:171319:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter from Scotland.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Lord <hi>Ogleby</hi> (with the Gourdion Forces) hath taken the field, with a Reſolution to fight Lieutenant Generall <hi>Leſley,</hi> and ſo to advance to the city of <hi>Edenburgh,</hi> for the paying of arreares (as they ſay) due to the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arliament, deſcending from the late Marq. of <hi>Huntley,</hi> who as they ſuggeſt, was tray<g ref="char:EOLhyphen"/>terouſly murthered, and put to death by the Parl. of Scotland; from whence, col. <hi>Hume,</hi> col. <hi>Sinclare,</hi> colo<g ref="char:EOLhyphen"/>nell <hi>Ennis,</hi> and ſeven other Regiments of Horſe &amp; foot are marching to intercept them in their paſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge, and to relieve Lieut. Gen. <hi>Leſley,</hi> who is in a very ſad conditi<g ref="char:EOLhyphen"/>on, being invironed on all ſides; but its feared, that be<g ref="char:EOLhyphen"/>fore they can bave a conjunction, his forces wil be ſur<g ref="char:EOLhyphen"/>prized: for by letters from the North it is advertized, that there hath already bin ſome action between them neer <hi>Athull</hi> caſtle, and that the Lord <hi>Ogleby</hi> with a con<g ref="char:EOLhyphen"/>ſiderable party of Horſe and Foot marched very ob<g ref="char:EOLhyphen"/>ſcure in the night time, beat up their quarters, and af<g ref="char:EOLhyphen"/>ter a hot diſpute killed many, took divers priſoners, and put the reſt to flight: in which conflict the parlia<g ref="char:EOLhyphen"/>ments Forces diſputed the place with great gallantry, and fought from houſe to houſe, untill they had no place left for refuge.</p>
+                  <p>In which fight, we hear, that the Lieutenant Gene<g ref="char:EOLhyphen"/>rall received ſome hurt, and is retreated towards <hi>A<g ref="char:EOLhyphen"/>tholl,</hi> where his ſcattered Forces have rallied and ga<g ref="char:EOLhyphen"/>thered into a Body, being reſolved to ſtand another charge; and to that end, are preparing to receive the Enemy; ſo that in few dayes you will hear of further <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ction.</p>
+                  <p>During which reſpite of time, if the aforeſaid Re<g ref="char:EOLhyphen"/>giments
+<pb n="5" facs="tcp:171319:4"/> can come in to his aſſiſtance, no doubt but he will bee able to give a good accom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t of the ſpeedy vanquiſhing of this inſulting and bloud thirſty enemy; othe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wiſe, he is in great danger of receiving a fatall Blow, which if faciliated will prove very diſadvanta<g ref="char:EOLhyphen"/>gious and deſtructive to the preſent proceedings, in re<g ref="char:EOLhyphen"/>lation to the publike affaires of this Nation. In the a<g ref="char:EOLhyphen"/>foreſaid conflict many were ſlain and wounded, a Liſt whereof I have ſent you here incloſed.</p>
+                  <list>
+                     <head>A Liſt of the number killed and taken at the Fight neer <hi>Atholl.</hi>
+                     </head>
+                     <item>
+                        <label>Of Lieut Gen. <hi>Leſley's</hi> party ſlain.</label> One Captain. Two Sergeants. 4 Corporals. 40 private Souldiers. 30 taken priſoners. Their whole Body of Horſe and Foot 2500</item>
+                     <item>
+                        <label>Of the Lord <hi>Oglebyes</hi> party killed.</label> One Lieut. col. Two Captains. Three Sergeants. 20 private Souldiers. Many wounded. Their whole Body of Horſe and Foot 3600.</item>
+                  </list>
+                  <p>We hear that perfidious <hi>Middleton</hi> is ioyned with the <hi>Gourdons,</hi> which make them very numerous: the Jockies are much divided, and vary exceedingly in their conſultations touching the Prince. There hath been lately ſome commotions and Riſings at <hi>Anwicke</hi> in <hi>Northumberland,</hi> by the Moſſe troopers, and other diſcontented Spirits, who diſperſed ſeverall papers up and down the country, declaring for <hi>Charls</hi> the ſecond; but upon timely diſcovery, the young plants were lopt and the flowers blaſted in the Budding, by a party from hence, who ſoon fruſtrated their Deſign, and forced them all to fly for refuge and ſanctuary.</p>
+                  <closer>
+                     <dateline>Barwick <date>5 April 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:171319:5" rendition="simple:additions"/>
+            <p>By an Expreſſe from Lancaſhire it is intimated, that many of colonel <hi>Shuttleworths</hi> men are reſolved not to disband, and are ſtrongly fortifying <hi>Clethero</hi> caſtle, they pluuder the country, and fetch in great ſtore of provi<g ref="char:EOLhyphen"/>ſion, but were met withall on Sunday laſt, by a party of Maj. Gen. <hi>Lamberts</hi> Horſe, who fought them, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illed two, took five priſoners, the reſt being well mounted, eſcaped. Col. <hi>Morris</hi> (the late valiant <hi>Governour</hi> of <hi>pon<g ref="char:EOLhyphen"/>tefract</hi>) and his party, being two in number, are ſurpri<g ref="char:EOLhyphen"/>ſed in <hi>Lancaſhire,</hi> but not without blowes, for they fought very reſolutely before they were taken.</p>
+            <p>
+               <hi>Munday Aprill</hi> 9. Letters from <hi>Windſor</hi> ſay, that M. G. <hi>Brown</hi> is pleaſant and merry, and that he hath ſent a Letter to divers Citizens, intimating, His preſent ſtate of affairs, and what he hath heard from ſome mem<g ref="char:EOLhyphen"/>bers ſince his reſtraint, but deſireth them not to inter<g ref="char:EOLhyphen"/>meddle with any particulars touching the proceedings of the Parliament and Army; with other particulars, in relation to his tryall, ſaying, <hi>That he doubts not, but that his innocency in his preſent ſufferings, will in proces of time, ſhine forth as the morning Star in its own ſplen<g ref="char:EOLhyphen"/>dor and brightneſſe,</hi> ſo pleaded others, who had the ho<g ref="char:EOLhyphen"/>nour to go before him.</p>
+            <p>A meſſage is forthwith to be expedited to the Lord Mayor, requiring the proclaiming of the <hi>Act</hi> at the Royall Exchange, and elſewhere, for the aboliſhing of the Kingly Office in <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>THEO: JENNINGS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
